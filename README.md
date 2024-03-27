@@ -40,7 +40,11 @@ Example:
 
 **Linux Example:**
 
+![help](assets/help-menu.jpg)
+
 ![usage](assets/usage.jpg)
+
+![usage](assets/dup-chk.jpg)
 
 **Note:**
 
