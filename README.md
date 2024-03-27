@@ -1,9 +1,10 @@
 # Dir-Generator.py
 - Simple Testing Directory Generator
   - Its not groundbreaking, but helps with organisation of your engagement and saves some time getting set up.
+- Works both on Linux & Windows (cross-platform)
 
 ## Overview:
-This Python script is designed to facilitate the creation of testing directories for engagements, providing a structured approach to organizing your work. Whether you're a penetration tester, security analyst, or simply organizing your projects, this script streamlines the process of setting up directories for different methodologies within an engagement.
+This Python script is designed to facilitate the creation of testing directories for penetration testing engagements, providing a structured approach to organizing your work. Whether you're a penetration tester, security analyst, or simply organizing your projects, this script streamlines the process of setting up directories for different methodologies within an engagement.
 
 ### Key Functions:
 - print_banner(): This function displays a colorful ASCII banner when the script is executed, adding a touch of visual appeal to your terminal.
@@ -38,15 +39,22 @@ Example:
 1) Copy code/ repo
 2) `python3 dir_generator.py -n MyEngagement -m Methodology1,Methodology2`
 
-**Linux Example:**
+**Examples for both Linux & Windows:**
 
-![help](assets/help-menu.jpg)
+**Help Menu**
+![helpL](assets/help-menu.jpg)
+![helpW](assets/help-menu-w.jpg)
 
-![usage](assets/usage.jpg)
+**Usage**
+![usageL](assets/usage.jpg)
+![usageW](assets/usage-w.jpg)
 
-![usage](assets/dup-chk.jpg)
+**Duplication check**
+![usageL](assets/dup-chk.jpg)
+![usageW](assets/dup-chk-w.jpg)
 
-**Note:**
+
+**Notes:**
 
 - Ensure proper permissions to create directories in the desired location.
 - Customize directory paths as needed, especially for non-Linux platforms.
