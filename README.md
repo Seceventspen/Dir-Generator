@@ -38,6 +38,10 @@ Example:
 1) Copy code/ repo
 2) `python3 dir_generator.py -n MyEngagement -m Methodology1,Methodology2`
 
+**Linux Example:**
+
+![usage](assets/usage.jpg)
+
 **Note:**
 
 - Ensure proper permissions to create directories in the desired location.
