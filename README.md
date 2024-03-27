@@ -33,8 +33,9 @@ argparse module
 
 Execute the script with Python 3, specifying the engagement name (-n) and optionally, methodologies (-m).
 Example:
-Copy code
-`python3 dir_generator.py -n MyEngagement -m Methodology1,Methodology2`
+
+1) Copy code/ repo
+2) `python3 dir_generator.py -n MyEngagement -m Methodology1,Methodology2`
 
 **Note:**
 
