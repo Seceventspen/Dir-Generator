@@ -2,7 +2,6 @@
 - Simple Testing Directory Generator
   - Its not groundbreaking, but helps with organisation of your engagement and saves some time getting set up.
 - Works both on Linux & Windows (cross-platform)
----
 
 ## Overview:
 This Python script is designed to facilitate the creation of testing directories for penetration testing engagements, providing a structured approach to organizing your work. Whether you're a penetration tester, security analyst, or simply organizing your projects, this script streamlines the process of setting up directories for different methodologies within an engagement.
